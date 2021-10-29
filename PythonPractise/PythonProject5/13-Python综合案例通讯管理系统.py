@@ -9,7 +9,7 @@ students = [
 
 # 2、打印功能菜单
 print('-' * 40)
-print('欢迎使用传智教育通讯录管理系统V1.0')
+print('欢迎使用杰希教育通讯录管理系统V1.0')
 print('[1] 增加学员信息')
 print('[2] 删除学员信息')
 print('[3] 退出系统')
@@ -41,7 +41,7 @@ while True:
         else:
             print('您要删除的学员信息不存在')
     elif user_num == 3:
-        print('感谢您使用传智教育通讯录管理系统V1.0')
+        print('感谢您使用杰希教育通讯录管理系统V1.0')
         break
     else:
         print('输入错误，请重新输入要操作的编号')
