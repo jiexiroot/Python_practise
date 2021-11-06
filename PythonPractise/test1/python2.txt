@@ -1,0 +1,4 @@
+xiaoming1 male 18 3000
+xiaoming2 male 38 6000
+xiaoming3 female 58 4500
+xiaoming4 female 18 3000
